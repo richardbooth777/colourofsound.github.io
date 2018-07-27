@@ -27,7 +27,7 @@ permalink: /services/
   <br>
       <b>IT consultancy</b>; Windows and Mac support and solutions
     <br>
-    <b>Home cinema<b/> and HTPC consultation
+    <b>Home cinema</b> and HTPC consultation
     <br>
     <b>Home Audio</b> and PA Systems advice and consultation
     <br>
