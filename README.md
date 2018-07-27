@@ -5,7 +5,7 @@ This is the readme for the website of Chris Walker. The page you're looking for 
 
 I used to have a Squarespace website, but now I've built a Github.io site, to better learn how to code, and do it for free, no less.
 
-Enjoy your visit; and if you need a music, IT or journalistic services, email me at chriswalker@mailbox.org
+Enjoy your visit; and if you need music, IT or journalistic services, email me at chriswalker@mailbox.org
 
 Peace!
 
