@@ -3,7 +3,7 @@ layout: page
 permalink: /services/
 ---
 
-![Music](/images/stratclosup.jpeg)
+![Music](/images/stratcloseup.jpeg)
 
 <p align="center">
   <strong>Music</strong>
@@ -20,7 +20,7 @@ permalink: /services/
     <br><br>
     <p>
 
-![Technology](/images/stratclosup.jpeg)
+![Technology](/images/stratcloseup.jpeg)
 
 <p align="center">
   <strong>Technology</strong>
@@ -35,7 +35,7 @@ permalink: /services/
     <br><br>
     <p>
 
-![Outdoors](/images/stratclosup.jpeg)
+![Outdoors](/images/stratcloseup.jpeg)
 
 <p align="center">
   <strong>Outdoors</strong>
