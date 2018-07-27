@@ -17,7 +17,7 @@ permalink: /about/
   <br>
   <br>
   
-### Contact me
+### Get in touch.
 
 [Email](mailto:chris@chriswmusic.com)   
 [Instagram](instagram.com/colourofsound)
