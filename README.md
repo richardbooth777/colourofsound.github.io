@@ -1,7 +1,7 @@
 
 ## Chris Walker - Musician, Technician, Outdoor Person
 
-This is the readme for the website of Chris Walker. The page you're looking for is chriswmusic.com
+This is the readme for the website of Chris Walker. The page you're looking for is [chriswmusic.com](http://chriswmusic.com)
 
 I used to have a Squarespace website, but now I've built a Github.io site, to better learn how to code, and do it for free, no less.
 
