@@ -15,5 +15,6 @@ Chris is a musician with nationwide gigging experience; live and studio recordin
 
 [Email](mailto:chris@chriswmusic.com)   
 [Instagram](instagram.com/colourofsound)
+
 </div>
 </html>
