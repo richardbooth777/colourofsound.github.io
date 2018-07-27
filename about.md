@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Chris Walker
 permalink: /about/
 ---
 
-[Session Musician & Audio Engineer](http://soundcloud.com/colourofsound/sets/demo-reel) - [IT Technician](https://www.linkedin.com/in/chriswalkermusic/) - [Adventure Journalist](http://thryve.world)
+<div style="text-align: center"> [Session Musician & Audio Engineer](http://soundcloud.com/colourofsound/sets/demo-reel) - [IT Technician](https://www.linkedin.com/in/chriswalkermusic/) - [Adventure Journalist](http://thryve.world)</div>
 
-Chris is a musician with nationwide gigging experience; live and studio recording expertise; and a diverse composition portfolio
+<div style="text-align: center">Chris is a musician with nationwide gigging experience; live and studio recording expertise; and a diverse composition portfolio</div>
 
-![Live at Central Station](/images/IMG_5978.jpg)
+<div style="text-align: center">![Live at Central Station](/images/IMG_5978.jpg)</div>
 
-### Contact me
+<div style="text-align: center">### Contact me</div>
 
-[Email](mailto:chris@chriswmusic.com)   
-[Instagram](instagram.com/colourofsound)   
+<div style="text-align: center">[Email](mailto:chris@chriswmusic.com)</div>   
+<div style="text-align: center">[Instagram](instagram.com/colourofsound)</div>     
