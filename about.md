@@ -17,9 +17,9 @@ permalink: /about/
   <br>
   <br>
   
-<strong>Get in touch</strong>
-
-[Email](mailto:chris@chrismusic.com)  
-<a href="http://instagram.com/colourofsound">Instagram</a>
-
+  <strong>Get in touch</strong>
+  <br>
+  <a href="mailto:chris@chriswmusic.com">Email</a>
+  <br>
+  <a href="http://instagram.com/colourofsound">Instagram</a>
 </p>
