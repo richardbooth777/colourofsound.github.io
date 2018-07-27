@@ -12,4 +12,4 @@ Peace!
 Chris
 
 
-![Live at Central Station](/images/liveatCS1.jpg "Live at Central Station")
+![Live at Central Station](/images/IMG_5978.jpg "Live at Central Station")
