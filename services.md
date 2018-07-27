@@ -2,6 +2,7 @@
 layout: page
 permalink: /services/
 ---
+
 ![Music](/images/stratclosup.jpeg)
 
 <p align="center">
@@ -18,7 +19,7 @@ permalink: /services/
   <b>Live sound</b> engineering and event organisation
     <br><br>
     <p>
-      
+
 ![Technology](/images/stratclosup.jpeg)
 
 <p align="center">
