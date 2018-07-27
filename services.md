@@ -39,8 +39,8 @@ permalink: /services/
 
 <p align="center">
   <strong>Outdoors</strong>
-  <br>
-      <b>Adventure</b> curation and journalism
+    <br>
+    Adventure curation and journalism
     <br>
     Advice and consultation on mountain biking and hiking trips in the UK
   <p>
