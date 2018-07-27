@@ -5,42 +5,32 @@ permalink: /services/
 
 ![Music](/images/stratcloseup.jpeg)
 
-<p align="center">
-  <strong>Music</strong>
-  <br>
-  <b>Session playing</b>; live or in the studio. Guitar, drums, bass, vocals
-    <br>
-  <b>Recording</b>; either remotely (i'll record parts for you) or in the studio (i'll record you or your band)
-    <br>
-  <b>Sound effects</b>, foley & voiceover creation and recording
-    <br>
-  <b>Composition</b> for games and TV; collaboration
-    <br>
-  <b>Live sound</b> engineering and event organisation
-    <br><br>
-    <p>
+ ### Music
+  
+ **Session playing**; live or in the studio. Guitar, drums, bass, vocals
+    
+ **Recording**; either remotely (i'll record parts for you) or in the studio (i'll record you or your band)
+ 
+ **Sound effects**, foley & voiceover creation and recording
+    
+ **Composition** for games and TV; collaboration
+ 
+ **Live sound** engineering and event organisation
 
 ![Technology](/images/stratcloseup.jpeg)
 
-<p align="center">
-  <strong>Technology</strong>
-  <br>
-      <b>IT consultancy</b>; Windows and Mac support and solutions
-    <br>
-    <b>Home cinema</b> and HTPC consultation
-    <br>
-    <b>Home Audio</b> and PA Systems advice and consultation
-    <br>
-      <b>Home studio</b> advice and consultation
-    <br><br>
-    <p>
+ ### Technology
+ **IT consultancy**; Windows and Mac support and solutions
+ 
+ **Home cinema** and HTPC consultation
+ 
+ **Home audio** and PA Systems advice and consultation
+    
+ **Home studio** advice and consultation
 
 ![Outdoors](/images/stratcloseup.jpeg)
 
-<p align="center">
-  <strong>Outdoors</strong>
-    <br>
-    Adventure curation and journalism
-    <br>
-    Advice and consultation on mountain biking and hiking trips in the UK
-  <p>
+### Outdoors
+**Adventure** curation and journalism
+
+**Advice and consultation** on mountain biking and hiking trips in the UK
