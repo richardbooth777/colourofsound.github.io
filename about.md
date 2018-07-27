@@ -2,9 +2,8 @@
 layout: page
 permalink: /about/
 ---
-<html>
-<div style="text-align: center">
-  
+<p align="center">
+
 [Session Musician & Audio Engineer](http://soundcloud.com/colourofsound/sets/demo-reel) - [IT Technician](https://www.linkedin.com/in/chriswalkermusic/) - [Adventure Journalist](http://thryve.world)
 
 Chris is a musician with nationwide gigging experience; live and studio recording expertise; and a diverse composition portfolio
@@ -15,6 +14,4 @@ Chris is a musician with nationwide gigging experience; live and studio recordin
 
 [Email](mailto:chris@chriswmusic.com)   
 [Instagram](instagram.com/colourofsound)
-
-</div>
-</html>
+</p>
