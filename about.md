@@ -7,7 +7,7 @@ permalink: /about/
 <p align="center">
   <a href="http://soundcloud.com/colourofsound/">Session Musician & Audio Engineer</a> |
   <a href="https://www.linkedin.com/in/chriswalkermusic/">IT Technician</a> |
-  <a href="http://thryve.world/">"Adventure Journalist"(?!)</a>
+  <a href="http://thryve.world/">Outdoors</a>
   <br>
   <br>
   Chris is a musician with nationwide gigging experience; live and studio recording expertise; and a diverse composition portfolio. In the day he exercises his considerable experience in IT; and on the weekends goes on outdoor adventures, and then writes about them.
@@ -17,9 +17,9 @@ permalink: /about/
   <br>
   <br>
   
-### Get in touch.
+<strong>Get in touch</strong>
 
-[Email](mailto:chris@chriswmusic.com)   
-[Instagram](instagram.com/colourofsound)
+<a href="mailto:">chris@chriswmusic.com</a>   
+<a href="http://instagram.com/colourofsound">Instagram</a>
 
 </p>
