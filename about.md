@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Session Musician | Audio Engineer | Stage & Studio
 
-### More Information
+Chris is a musician with nationwide gigging experience; live and studio recording expertise; and a diverse composition portfolio
 
-A place to include any other types of information that you'd like to include about yourself.
+/images/IMG_5978.jpg
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:chris@chriswmusic.com)
+[Instagram](instagram.com/colourofsound)
