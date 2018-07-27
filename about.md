@@ -19,7 +19,7 @@ permalink: /about/
   
 <strong>Get in touch</strong>
 
-<a href="mailto:">chris@chriswmusic.com</a>   
+[Email](mailto:chris@chrismusic.com)  
 <a href="http://instagram.com/colourofsound">Instagram</a>
 
 </p>
