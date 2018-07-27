@@ -31,6 +31,6 @@ permalink: /services/
 ![Outdoors](/images/stratcloseup.jpeg)
 
 ### Outdoors
-**Adventure** curation and journalism
+**Adventure curation** and journalism
 
 **Advice and consultation** on mountain biking and hiking trips in the UK
