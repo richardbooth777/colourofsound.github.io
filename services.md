@@ -4,7 +4,6 @@ permalink: /services/
 ---
 
 ![Music](/images/stratcloseup.jpeg)
-
  ### Music
   
  **Session playing**; live or in the studio. Guitar, drums, bass, vocals
@@ -19,8 +18,8 @@ permalink: /services/
  
 
 ![Technology](/images/stratcloseup.jpeg)
-
  ### Technology
+ 
  **IT consultancy**; Windows and Mac support and solutions
  
  **Home cinema** and HTPC consultation
@@ -31,8 +30,8 @@ permalink: /services/
  
 
 ![Outdoors](/images/stratcloseup.jpeg)
-
 ### Outdoors
+
 **Adventure curation** and journalism
 
 **Advice and consultation** on mountain biking and hiking trips in the UK
