@@ -2,6 +2,9 @@
 # This file contains configuration flags to customize your site
 #
 
+# Jekyll Theme
+theme: jekyll-theme-cayman
+
 # Name of your site (displayed in the header)
 name: Chris Walker
 
@@ -10,9 +13,6 @@ description: Musician, IT Technician, budding Adventure Journalist(!?)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/tokaiavatar.jpg
-
-# Jekyll Theme
-theme: jekyll-theme-cayman
 
 #
 # Flags below are optional
