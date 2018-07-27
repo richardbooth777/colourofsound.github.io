@@ -16,6 +16,7 @@ permalink: /services/
  **Composition** for games and TV; collaboration
  
  **Live sound** engineering and event organisation
+ 
 
 ![Technology](/images/stratcloseup.jpeg)
 
@@ -27,6 +28,7 @@ permalink: /services/
  **Home audio** and PA Systems advice and consultation
     
  **Home studio** advice and consultation
+ 
 
 ![Outdoors](/images/stratcloseup.jpeg)
 
