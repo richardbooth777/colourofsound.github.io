@@ -3,7 +3,8 @@ layout: page
 permalink: /services/
 ---
 
-![Music](/images/stratcloseup.jpeg)
+![Music](/images/stratcloseup.jpeg)   
+
  ### Music
   
  **Session playing**; live or in the studio. Guitar, drums, bass, vocals
@@ -17,7 +18,8 @@ permalink: /services/
  **Live sound** engineering and event organisation
  
 
-![Technology](/images/stratcloseup.jpeg)
+![Technology](/images/stratcloseup.jpeg)   
+
  ### Technology
  
  **IT consultancy**; Windows and Mac support and solutions
@@ -29,7 +31,8 @@ permalink: /services/
  **Home studio** advice and consultation
  
 
-![Outdoors](/images/stratcloseup.jpeg)
+![Outdoors](/images/stratcloseup.jpeg)   
+
 ### Outdoors
 
 **Adventure curation** and journalism
