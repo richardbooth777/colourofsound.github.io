@@ -5,29 +5,29 @@ permalink: /services/
 
 ![Music](/images/stratcloseup.jpeg)   
 
- ### Music
+### Music
 
- **Session playing**; live or in the studio. Guitar, drums, bass, vocals
+**Session playing**; live or in the studio. Guitar, drums, bass, vocals
 
- **Recording**; either remotely (i'll record parts for you) or in the studio (i'll record you or your band)
+**Recording**; either remotely (i'll record parts for you) or in the studio (i'll record you or your band)
 
- **Sound effects**, foley & voiceover creation and recording
+**Sound effects**, foley & voiceover creation and recording
 
- **Composition** for games and TV; collaboration
+**Composition** for games and TV; collaboration
 
- **Live sound** engineering and event organisation
+**Live sound** engineering and event organisation
 
 ![Technology](/images/stratcloseup.jpeg)   
 
- ### Technology
+### Technology
 
- **IT consultancy**; Windows and Mac support and solutions
+**IT consultancy**; Windows and Mac support and solutions
 
- **Home cinema** and HTPC consultation
+**Home cinema** and HTPC consultation
 
- **Home audio** and PA Systems advice and consultation
+**Home audio** and PA Systems advice and consultation
  
- **Home studio** advice and consultation
+**Home studio** advice and consultation
 
 ![Outdoors](/images/stratcloseup.jpeg)   
 
