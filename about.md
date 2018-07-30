@@ -10,7 +10,7 @@ permalink: /about/
   <a href="http://thryve.world/">Outdoors</a>
   <br>
   <br>
-  Chris is a musician with nationwide gigging experience; live and studio recording expertise; and a diverse composition portfolio. In the day he exercises his considerable experience in IT; and on the weekends goes on outdoor adventures, and then writes about them.
+  Chris is a musician with nationwide gigging experience; live and studio recording expertise; and a diverse composition portfolio. In the day he exercises his considerable experience in IT; and on the weekends goes on outdoor adventures (and sometimes writes about them).
   <br>
   <br>
   <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/96819445&color=%232ba49e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
