@@ -3,7 +3,7 @@ layout: page
 permalink: /services/
 ---
 
-![Music](/images/stratcloseup.jpeg)   
+![Music](/images/musicheader.png)   
 
 ### Music
 
@@ -17,7 +17,7 @@ permalink: /services/
 
 **Live sound** engineering and event organisation
 
-![Technology](/images/stratcloseup.jpeg)   
+![Technology](/images/techheader.png)   
 
 ### Technology
 
@@ -29,7 +29,7 @@ permalink: /services/
  
 **Home studio** advice and consultation
 
-![Outdoors](/images/stratcloseup.jpeg)   
+![Outdoors](/images/outdoorheader.png)   
 
 ### Outdoors
 
