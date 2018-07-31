@@ -11,11 +11,11 @@ permalink: /services/
 
 **Recording**; either remotely (i'll record parts for you) or in the studio (i'll record you or your band)
 
-**Sound effects**, foley & voiceover creation and recording
+**Sound effects**; foley & voiceover creation and recording
 
 **Composition** for games and TV; collaboration
 
-**Live sound** engineering and event organisation
+**Live sound**; engineering and event organisation
 
 ![Technology](/images/techheader.png)   
 
